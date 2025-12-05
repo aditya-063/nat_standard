@@ -1,31 +1,30 @@
 # Next-Advanced-Notation (NΔT)
 
 **Version:** 1.0  
-**Author:** [Your Name]  
+**Author:** Aditya Chaudhary  
 **License:** NΔT Open License v1.0
 
 ---
 
 ## Overview
 
-NΔT (Next-Advanced-Notation) is a **next-generation data serialization format** designed for **maximum token efficiency**. It compresses JSON and Toon data by mapping keys and values to numeric codes and compact structures, reducing up to **75% of tokens** compared to traditional JSON.
+NΔT (Next-Advanced-Notation) is a **next-generation data serialization format** designed for **maximum token efficiency**. It converts JSON or Toon files into a highly compact, machine-efficient format while remaining human-readable. NΔT can reduce up to **75% of tokens** compared to traditional JSON, making it ideal for LLM applications and AI workflows.
 
 NΔT is perfect for:
 
-- LLM applications (ChatGPT, GPT-4/5)  
-- AI workflows with token-limited APIs  
-- High-volume data pipelines  
-- Developers and researchers needing compact, human-readable data formats
+- Developers and researchers using **LLMs** (GPT-4/5, ChatGPT, etc.)  
+- High-volume data pipelines where **token reduction matters**  
+- Anyone needing a **compact, human-readable data format**
 
 ---
 
 ## Features
 
 - Convert **JSON → Toon → NΔT** or **Toon → NΔT**  
-- Drastically reduce token usage (~50–75% reduction)  
-- Lightweight and human-readable format  
-- Open-source for personal, educational, and non-commercial use  
-- Commercial use requires a paid license from the author  
+- Significant token savings (~50–75% reduction)  
+- Lightweight and human-readable  
+- Open-source for **personal, educational, and non-commercial use**  
+- Commercial use requires a **paid license** from Aditya Chaudhary  
 
 ---
 
