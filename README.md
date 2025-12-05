@@ -8,7 +8,7 @@
 
 ## Overview
 
-NΔT (Next-Advanced-Notation) is a **next-generation data serialization format** designed for **maximum token efficiency**. It converts JSON or Toon files into a highly compact, machine-efficient format while remaining human-readable. NΔT can reduce up to **75% of tokens** compared to traditional JSON, making it ideal for LLM applications and AI workflows.
+NΔT (Next-Advanced-Notation) is a **next-generation data serialization format** designed for **maximum token efficiency**. It converts JSON or Toon files into a highly compact, machine-efficient format while remaining human-readable. NΔT can reduce up to **75% of tokens** compared to traditional JSON.
 
 NΔT is perfect for:
 
@@ -28,10 +28,10 @@ NΔT is perfect for:
 
 ---
 
-## Installation
+## License
 
-Clone the repository:
+**NΔT Open License v1.0**  
 
-```bash
-git clone https://github.com/yourusername/nat-standard.git
-cd nat-standard
+- Free for personal, educational, and non-commercial use  
+- Commercial use requires a paid license from Aditya Chaudhary  
+- NΔT™ is a trademark of Aditya Chaudhary
